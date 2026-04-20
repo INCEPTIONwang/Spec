@@ -130,7 +130,6 @@ All arguments after the config name are Hydra overrides.
 - `env.eval.video_cfg.save_video=False`
   Disable video saving.
 
-- `actor.micro_batch_size=<n>`
 - `actor.global_batch_size=<n>`
   Reduce memory usage for local runs.
 
